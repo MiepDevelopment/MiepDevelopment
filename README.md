@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @MiepDevelopment
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java
+This is MiepDevelopment, I am currently learning Java and PHP.
